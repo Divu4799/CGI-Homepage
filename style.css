@@ -36,7 +36,7 @@ header ul :last-child::after{
 }
 /* front wrapper */
 #front-wrapper{
-    background: url("/image/background1.png") no-repeat;
+    background: url("image/background1.png") no-repeat;
     background-size: cover;
     max-height: 36rem;
 }
@@ -103,7 +103,7 @@ header ul :last-child::after{
     color: #EFA506;
 }
 #form-container{
-    background: url(/image/form-background.png);
+    background: url(image/form-background.png);
     background-size: cover;
     height: 70%;
     background-position: center center;
@@ -162,7 +162,7 @@ padding: 2rem;
 } */
 /* parallax */
 #parallax{
-    background: url('/image/parallax-bg.png');
+    background: url('image/parallax-bg.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -281,7 +281,7 @@ padding: 2rem;
     margin: 5rem auto;
     height: 100%;
     width: 100%;
-    background: url("/image/video-bg.jpg");
+    background: url("image/video-bg.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
